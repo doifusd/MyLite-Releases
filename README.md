@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/icon.png" alt="MyLite Logo" width="128" height="128" />
+<img src="https://github.com/doifusd/MyLite-Releases/releases/download/v1.3.19/icon.png" alt="MyLite Logo" width="128" height="128" />
 
 # MyLite
 
